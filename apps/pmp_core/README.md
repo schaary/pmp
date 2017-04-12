@@ -1,19 +1,11 @@
 # PmpCore
 
-**TODO: Add description**
+This is the core application with the current database layer:
 
-## Installation
+* User management
+* Key management
+* Password management
+* Group management
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `pmp_core` to your list of dependencies in `mix.exs`:
-
-```elixir
-def deps do
-  [{:pmp_core, "~> 0.1.0"}]
-end
-```
-
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at [https://hexdocs.pm/pmp_core](https://hexdocs.pm/pmp_core).
-
+Later I will refactor this part and seperate the database layer, so it become 
+interchangeable - e.g prefered by Riak.
