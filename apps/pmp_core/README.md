@@ -1,6 +1,6 @@
 # PmpCore
 
-This is the core application with the current database layer:
+This is the core application with the default database (postgresql currently) layer:
 
 * User management
 * Key management
