@@ -1,4 +1,2 @@
-# Pmp
-
-**TODO: Add description**
+# Password management for single user and groups
 
