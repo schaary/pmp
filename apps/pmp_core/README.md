@@ -1,6 +1,7 @@
 # PmpCore
 
-This is the core application with the default database (postgresql currently) layer:
+This is the core application with the default database (postgresql currently) layer. The 
+main goals for version v1.0 are:
 
 * [ ] User management
   - [ ] Save a new user
