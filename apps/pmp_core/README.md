@@ -7,7 +7,7 @@ main goals for version v1.0 are:
   - [ ] Save a new user
   - [ ] Change a user
   - [ ] Delete a user
-*  [ ] Key management
+* [ ] Key management
   - [ ] Generate new key pair
   - [ ] protect a private key by a password
   - [ ] Delete a key pair
